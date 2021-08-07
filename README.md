@@ -1,0 +1,1 @@
+# make_lib_static
